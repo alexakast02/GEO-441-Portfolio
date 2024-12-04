@@ -4,18 +4,18 @@ Alexa Kast
 Maps created for GEO 441 class
 
 # Spatial Analysis
-* week 12: (https://colab.research.google.com/drive/1zFxfYrBZkvlu5Qqwio-PkwdU3c_3l4Dk?usp=sharing)
-* week 11: (https://colab.research.google.com/drive/1PLSy-V3_tTSJ2N9Hq2XHZMwRLyyEfAEM?usp=sharing)
+* [Working With Census Data Week 12](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Spatial-Analysis/Copy_of_week_12_assignment_template.ipynb)
+* [3D Work Week 11](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Spatial-Analysis/Week_11_Collabipynb.ipynb)
   
 # Basic Mapping
-* [First ArcGis Map Week 1](https://colab.research.google.com/drive/1GeEzGMCmWxJx20q1OAUfDIhbgo_tOhzH?usp=sharing)
-* week 2(https://colab.research.google.com/drive/1hrtkE7sKXmCVxdRrlA8f4eHj92oEH6lM?usp=sharing)
-* week 3(https://colab.research.google.com/drive/10PbrCn8suIFxc8G6O3EgxnR2IgBOJYJy?usp=sharing)
+* [First ArcGis Map Week 1](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Basic-Mapping/Copy_of_week_01_assignment_template.ipynb)
+* [Working with Data Models Week 2](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Basic-Mapping/Copy_of_week_02_assignment_template.ipynb)
+* [Coordinate Systems and Map Projections Week 3](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Basic-Mapping/Copy_of_week_03_assignment_template.ipynb)
 
 
 # Raster Data Analysis
-* week 8(https://colab.research.google.com/drive/11BJSCMS6zddDD0YMe0c_WYg2XDr41kLz?usp=drive_link)
-* week 9(https://colab.research.google.com/drive/1kLRdXiE_03-RP0rLMDqIt_eJUomVo3yq?usp=sharing)
+* [Using Raster and Satellite Data Week 8](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Raster-Data-Analysis/Copy_of_week_08_assignment_template.ipynb)
+* [Spatial Analysis with Raster Data Week 9](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Raster-Data-Analysis/Copy_of_week_09_assignment_template.ipynb)
 
 # Vector Data Analysis
 * week 10(https://colab.research.google.com/drive/1v6gRmoBlGkK5f0Fmv4OjQm_D5ezqMu8O?usp=sharing)

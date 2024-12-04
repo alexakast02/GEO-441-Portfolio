@@ -25,4 +25,4 @@ Maps created for GEO 441 class
 # Vector Data Analysis
 * week 10 assignment
 * week 5
-* week 6
+

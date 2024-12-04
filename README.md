@@ -18,6 +18,6 @@ Maps created for GEO 441 class
 * [Spatial Analysis with Raster Data Week 9](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Raster-Data-Analysis/Copy_of_week_09_assignment_template.ipynb)
 
 # Vector Data Analysis
-* week 10(https://colab.research.google.com/drive/1v6gRmoBlGkK5f0Fmv4OjQm_D5ezqMu8O?usp=sharing)
-* week 5 (https://colab.research.google.com/drive/1_O7ugOay_K9NpKuSWXmWvV8Qpuivyy4a?usp=sharing)
+* [Spatial Analysis with Vector Data Week 10](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Vector-Data-Analysis/Copy_of_week_10_assignment_template.ipynb)
+* [Vector Data and Attribute Table Use Week 5]
 

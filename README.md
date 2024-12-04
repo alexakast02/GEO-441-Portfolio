@@ -13,7 +13,6 @@ Maps created for GEO 441 class
 * week 11 and 12 assignments include links
   
 # Basic Mapping
-* age index mapping (week 5)
 * first arcgis map week 1
 * week 2
 * week 3

@@ -3,13 +3,8 @@ Alexa Kast
 
 Maps created for GEO 441 class
 
-# Need:
-* to know how to make a folder and organize my work
-* what about raster data?? how else should I organize? - could maybe do table joins section instead? but that is similar to spatial analysis
-* should I just provide links to the colabs and then provide the links with a good title? - how to do?
-
-
 # Spatial Analysis
+* this is week 12: https://colab.research.google.com/drive/1zFxfYrBZkvlu5Qqwio-PkwdU3c_3l4Dk?usp=sharing
 * week 11 and 12 assignments include links
   
 # Basic Mapping

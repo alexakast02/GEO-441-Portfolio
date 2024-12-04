@@ -8,7 +8,7 @@ Maps created for GEO 441 class
 * week 11 and 12 assignments include links
   
 # Basic Mapping
-* [first arcgis map week 1]https://colab.research.google.com/drive/1GeEzGMCmWxJx20q1OAUfDIhbgo_tOhzH?usp=sharing
+* [first arcgis map week 1](https://colab.research.google.com/drive/1GeEzGMCmWxJx20q1OAUfDIhbgo_tOhzH?usp=sharing)
 * week 2
 * week 3
 

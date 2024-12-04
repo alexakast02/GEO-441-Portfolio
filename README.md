@@ -19,5 +19,5 @@ Maps created for GEO 441 class
 
 # Vector Data Analysis
 * [Spatial Analysis with Vector Data Week 10](https://github.com/alexakast02/GEO-441-Portfolio/blob/main/Vector-Data-Analysis/Copy_of_week_10_assignment_template.ipynb)
-* [Vector Data and Attribute Table Use Week 5]
+* [Vector Data and Attribute Table Use Week 5](
 
